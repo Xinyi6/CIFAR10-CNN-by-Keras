@@ -1,0 +1,2 @@
+# CIFAR10-CNN-by-Keras
+In this project, we investigated the performance of different convolutional network architectures on the CIFAR10 data. We implement from a simple CNN model, then adding layers, doing data augmentation and try wide residual network, and build our models on the CIFAR10 data and learn how different parameters can affect the performance. Above all, we tried 11 varying models and got testing accuracy ranging from 66.20% to 89.38%.
